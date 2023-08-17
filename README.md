@@ -8,8 +8,12 @@
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="azure" width="40" height="40"/>
 </p>
 
-<h3 align="left">Orquestation:</h3>
-
+<h3 align="left">CI/CD:</h3>
+<p align="left"> 
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
