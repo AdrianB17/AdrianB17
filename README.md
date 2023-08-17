@@ -23,7 +23,7 @@
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="aws" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/redhat/redhat-ar21.svg" alt="redhat" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/redhat/redhat-ar21.svg" alt="redhat" width="65" height="40"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianb17&show_icons=true&locale=en&layout=compact" alt="adrianb17" /></p>
