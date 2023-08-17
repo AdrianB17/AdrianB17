@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
 <h3 align="center">A passionate Cloud & DevOps Engineer from Perú</h3>
 
-<img src="https://github.com/AdrianB17/AdrianB17/blob/c4d320249e8b3cba765445cb9e9e6ebea3add15e/PerfilGithub.png" alt="azure"/>
+<img src="https://github.com/AdrianB17/AdrianB17/blob/259a9d5dd9f685e3a43c205b61ac0f22b57a054d/PerfilBackground.png" alt="azure"/>
 
 <h3 align="left">Providers Cloud:</h3>
 <p align="left"> 
