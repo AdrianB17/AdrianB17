@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
 <h3 align="center">A passionate Cloud & DevOps Engineer from Perú</h3>
 
-<img src="https://github.com/AdrianB17/AdrianB17/blob/259a9d5dd9f685e3a43c205b61ac0f22b57a054d/PerfilBackground.png" alt="azure"/>
+<img align="right" src="https://github.com/AdrianB17/AdrianB17/blob/259a9d5dd9f685e3a43c205b61ac0f22b57a054d/PerfilBackground.png" alt="azure"/>
 
 <img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="aws" width="400"/>
 
-<p align="right"> 
-
-</p>
 
 - 🔭 I’m currently working on **asdsa**
 
