@@ -4,7 +4,7 @@
 <img src="https://github.com/AdrianB17/AdrianB17/blob/259a9d5dd9f685e3a43c205b61ac0f22b57a054d/PerfilBackground.png" alt="azure"/>
 
 <p align="right"> 
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="aws" />
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="aws" width="400"/>
 </p>
 
 <h3 align="left">Providers Cloud:</h3>
