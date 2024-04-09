@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **DevSecOps & Cloud**
 
-- 🤝 How to reach me **adrian.bastidas.c@uni.pe**
-
 - 👨‍💻 All of my projects are available at [https://github.com/AdrianB17](https://github.com/AdrianB17)
 
 - 💬 Ask me about **DevOps & Cloud**
