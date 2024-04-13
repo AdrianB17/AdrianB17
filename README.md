@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
 <h3 align="center">A passionate Cloud & DevOps Engineer from Perú</h3>
 
-<img align="right" src="https://github.com/AdrianB17/AdrianB17/blob/259a9d5dd9f685e3a43c205b61ac0f22b57a054d/PerfilBackground.png" alt="azure"/>
 
 
 - 🌱 I’m currently learning **DevSecOps & Cloud**
